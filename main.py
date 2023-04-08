@@ -55,7 +55,7 @@ markdown_text = """
 </section>
 <h2>🧱Git status</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsks&show_icons=true&theme=default)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goraneee&show_icons=true&theme=default)<br>
 
 <h2>📒Blog status</h2>
 
