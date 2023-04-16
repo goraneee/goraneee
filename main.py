@@ -16,7 +16,7 @@ for idx, feed in enumerate(rss_feed['entries']):
     latest_blog_post_list += f"[{feed_date.tm_year}.{feed_date.tm_mon}.{feed_date.tm_mday} -  {feed['title']}]({feed['link']}) <br>\n"
     
 markdown_text = """
-<h2>⚙️Skils</h2>
+<h2>⚙️Skills</h2>
 <section>
 </div>
     <h3>BackEnd</h3>
