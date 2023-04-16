@@ -42,9 +42,9 @@
 
 <h2>📒Blog status</h2>
 
+[2023.4.16 -  [04월 2주차] JPA, Vue.js 3 기본 명령어](https://oranthy.tistory.com/533) <br>
 [2023.4.13 -  Chapter 04. 반응 속도 체크 게임](https://oranthy.tistory.com/537) <br>
 [2023.4.12 -  Chapter 02. 기본 문법](https://oranthy.tistory.com/535) <br>
-[2023.4.10 -  [04월 2주차] JPA, Vue.js 3 기본 명령어](https://oranthy.tistory.com/533) <br>
 [2023.4.9 -  Chapter 01. QueryDsl 프로젝트 생성 및 환경 설정](https://oranthy.tistory.com/532) <br>
 [2023.4.8 -  [04월 1주차] 페이징(Paging), QueryDSL,  LocalDate와 String 변환 방법](https://oranthy.tistory.com/531) <br>
 [2023.4.1 -  [03월 5주차] Thread API 전체적인 흐름 파악하기, 고정 소수점과 부동 소수점](https://oranthy.tistory.com/523) <br>
